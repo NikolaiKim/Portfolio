@@ -43,5 +43,5 @@
 
 
 ## Контактная информация
-- Email: kimsensei93@gmail.com
-- Telegram: @senseixo
+- Email: nikolai_kim_93@inbox.ru
+- Telegram: @NikolaiKim
