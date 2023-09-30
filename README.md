@@ -44,7 +44,7 @@
 
 <p>
 
-> <a href="https://drive.google.com/file/d/1S2OhEtwbUlXR9IRbMAFQy5K4JZD8dLQN/view?usp=sharing">Ссылка на проект</a> 
+> <a href="https://drive.google.com/file/d/14NA_jObTHeYkcETdsbHN1OG-vYaA8QEc/view?usp=sharing">Ссылка на проект</a> 
 
 
 
