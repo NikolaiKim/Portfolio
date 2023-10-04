@@ -87,7 +87,7 @@
 ### :mag_right: Тестирование проекта бэкенд-части функционала "Доска объявлений"
 
 #### Описание:
-<p>Суть проекта заключается в реализации функционала бэкенда сайта. <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="55"> </p>
+<p>Суть проекта заключается в реализации функционала бэкенда сайта. <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="45"> </p>
   
 <p>
 Бэкенд-часть проекта предполагает выполнение следующего функционала:
@@ -117,6 +117,8 @@
 <li>База данных PostgreSQL;</li>
 <li>PyCharm - для запуска локального сервера.</li>
   </ol>
+
+> <a href="https://drive.google.com/file/d/17zTZ9qhQHq-H_LoupgPHvH4RhlVIIfC7/view?usp=sharing">Ссылка на тестирование</a> 
 
 <p> 
 
