@@ -1,7 +1,7 @@
 # Портфолио: Q&A Engineer (Инженер по тестированию)
 
 <p align="center">
-      <img src="https://i.ibb.co/wQGB19h/25294-970.jpg" alt="Project Logo" width="726">
+      <img src="https://media.giphy.com/media/5qZEZ0rTln9581K7Q5/giphy.gif" alt="Project Logo" width="650">
 </p>
 
 <p align="center">
